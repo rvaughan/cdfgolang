@@ -1,0 +1,13 @@
+Inaugural hack night.
+
+Concept was to be able to take data from a public API, transform it somehow, and
+then spit it out in a different format.
+
+Not a lot to see here really, the app allows a query to be triggered against
+the Companies House API (asynchronously) and then later on the results can be
+retrieved.
+
+The code is a little rough and ready, and is essentially written to try and
+explain some underlying concepts such as channels to others. Try not to blind
+yourself on the horrendous style and blatant errors, but we only had a couple
+of hours. ;)
